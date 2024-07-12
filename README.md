@@ -3,7 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Ho Chi Minh City, Vietnam
 * ✉️  You can contact me at [hoangnamqt.2001@gmail.com](mailto:hoangnamqt.2001@gmail.com)
-* 🧠  I'm learning Computer Engineering at HCMUT
+* 🧠  I graduated  Computer Engineering at Bach Khoa University
+
+
 
 ### Skills
 
